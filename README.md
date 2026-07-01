@@ -27,7 +27,7 @@ The dataset contains RGB histopathology images and their corresponding binary se
 ## Model
 
 * Architecture: U-Net
-* Encoder: ResNet34
+* Encoder: ResNet50
 * Encoder weights: ImageNet
 * Framework: segmentation-models-pytorch
 
