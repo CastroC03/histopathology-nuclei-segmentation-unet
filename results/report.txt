@@ -1,0 +1,7 @@
+
+Training Report
+==============================
+
+Best Epoch      : 26
+Best Dice Score : 0.8576
+Training Time   : 10743.25 seconds
