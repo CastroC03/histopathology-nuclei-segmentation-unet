@@ -22,14 +22,6 @@ The project includes:
 
 The dataset contains RGB histopathology images and their corresponding binary segmentation masks.
 
-Directory structure:
-
-```
-data/
-├── images/
-└── masks/
-```
-
 ---
 
 ## Model
